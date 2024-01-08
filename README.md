@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benoithebrard
-- 👀 I’m interested in outdoor activities and new technologies
+- 👀 I’m interested in mobile apps development and outdoor activities
 - 🌱 I’m currently learning Compose
 - 💞️ I’m looking to collaborate on apps that improve people's lives and the planet
 - 📫 How to reach me: https://www.linkedin.com/in/benoithebrard/
