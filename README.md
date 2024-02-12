@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @benoithebrard
 - 👀 I’m interested in new technologies as well as outdoor activities
 - 🌱 I’m currently learning Jetpack Compose
-- 💞️ I’m looking to collaborate on Android apps that improve people's lives and reduce our impact on the planet
+- 💞️ I’m looking to collaborate on Kotlin Android apps that improve people's lives and reduce our impact on the planet
 - 📫 How to reach me: https://www.linkedin.com/in/benoithebrard/
 
 <!---
